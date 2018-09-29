@@ -5,16 +5,17 @@ __author__ = 'Henry'
 
 
 from multiprocessing import Pool
-from company_list import spider,update_name
+from Spiders.company_list import update_name,spider
+
 
 # verson1:
-# if __name__ == '__main__':
-#     page = 6793
-#     pool = Pool(processes=8)
-#     pool.apply_async(spider(page)) #pool.apply_async(spider,args=(page,))
-#     pool.close()
-#     pool.join()
-#     print('爬取完成!')
+if __name__ == '__main__':
+    page = 6793
+    pool = Pool(processes=8)
+    pool.apply_async(spider(page)) #pool.apply_async(spider,args=(page,))
+    pool.close()
+    pool.join()
+    print('爬取完成!')
 
 
 # 爬取的公司名不完整 : 悠逸游Tri...

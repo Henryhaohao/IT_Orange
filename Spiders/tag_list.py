@@ -3,10 +3,12 @@
 # time: 2018/3/25--13:55
 __author__ = 'Henry'
 
+
 '''
 内容:爬取IT桔子中公司标签分类
 目标网址:http://radar.itjuzi.com/company
 '''
+
 
 import requests
 from bs4 import BeautifulSoup

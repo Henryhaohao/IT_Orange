@@ -3,8 +3,6 @@
 # time: 2018/3/25--17:55
 __author__ = 'Henry'
 
-import time
-from company_list import IT_orange
 
 # while True:
 #     count = IT_orange.find().count()
