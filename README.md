@@ -1,4 +1,4 @@
-爬取IT桔子网站的10万+公司信息
+多进程爬取IT桔子网站的10万+公司信息
 ===========================
 ![](https://img.shields.io/badge/Python-3.6.3-green.svg) ![](https://img.shields.io/badge/requests-2.18.4-green.svg) ![](https://img.shields.io/badge/pymongo-3.6.1-green.svg) ![](https://img.shields.io/badge/beautifulsoup4-4.6.3-green.svg) 
 ### IT桔子官网 - https://www.itjuzi.com/
