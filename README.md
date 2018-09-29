@@ -19,8 +19,6 @@
     - ![enter image description here](count.png)
     
     - ![enter image description here](data.png)
-    
-    - ![enter image description here](data1.png)
 ## :dolphin:运行环境
 Version: Python3
 ## :dolphin:安装依赖库
