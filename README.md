@@ -21,6 +21,8 @@
     - ![enter image description here](Pic/data.png)
 ## :dolphin:运行环境
 Version: Python3
+## :dolphin:存储数据库
+MongoDB
 ## :dolphin:安装依赖库
 ```
 pip3 install -r requirements.txt
